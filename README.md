@@ -1,6 +1,13 @@
 ScriptName : Change-AzAvailabilitySetMembers
 Description : This script will reconfigure all VM's of an availability set
 
+
+(to add)
+Custom RBAC roles on VM object
+Autoshutdown on VM
+No AV set as target
+(/to add)
+
 options are: 
 -move to new AV set (-TargetAvailabilitySet <AvSetName>
 - Resize the VM's (-VMsize <vmsize>)
